@@ -21,8 +21,8 @@ Em breve.
 
 No momento, estou trabalhando em 2 projetos pessoais:
 
-- 👾 Jogo em Python utilizando PICO-8, estilo Flying Hero (NES).
-- 👾 Visualizador e exportador de catálogo de skins do League of Legends.
+- 👾 Perk planner de Skyrim, com UI no estilo das skill trees dentro de jogo.
+- 👾 Jogo em Python utilizando PICO-8, estilo Flying Hero (NES) [pausado].
 
 
 ![](https://github-readme-stats.vercel.app/api?username=4Integra&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)  
